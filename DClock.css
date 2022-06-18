@@ -22,12 +22,3 @@ body{
     letter-spacing: 10px;
     text-shadow: 3px 3px 3px gray,-3px -3px 2px white;
 }
-/*
-.clock::before{
-    content:'';
-    position: absolute;
-    width: 500px;
-    height: 100%;
-    background: linear-gradient(#00ccff,#d400d4);
-
-}*/
